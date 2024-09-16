@@ -20,5 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guitiorr&show_icons=true&locale=en" alt="guitiorr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guitiorr&" alt="guitiorr" /></p>
-
-![snake gif](https://github.com/guitiorr/guitiorr/blob/output/github-contribution-grid-snake.gif)
