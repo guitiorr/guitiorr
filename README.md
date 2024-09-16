@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, Express JS**
 
-- ⚡ Fun fact **I play guitar and write music sometimes**
+- ⚡ Fun fact **I play guitar and The Witcher 3 is my favorite game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
