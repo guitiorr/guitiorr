@@ -1,7 +1,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=guitiorr&icon=5&color=12)](https://visitcount.itsvg.in)
 # 💫 About me:
-👩🏻‍🎓 Currently an undergraduate Computer Science student at BINUS University<br><br>🖥️ Passionate about **Web Development**<br><br>🌱 I’m currently learning **Laravel, Express JS**<br><br>⚡ Fun fact: **I play guitar and The Witcher 3 is my favorite game**
+👩🏻‍🎓 Currently an undergraduate Computer Science student at [BINUS University](https://binus.ac.id)<br><br>
+🖥️ Passionate about **Web Development**<br><br>
+🌱 I’m currently learning **Laravel, Express JS**<br><br>
+⚡ Fun fact: **I play guitar and The Witcher 3 is my favorite game**
 
 
 ## 🌐 Socials:
