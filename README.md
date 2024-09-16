@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guitiorr&label=Profile%20views&color=0e75b6&style=flat" alt="guitiorr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guitiorr" alt="guitiorr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/cristiano_budi" target="blank"><img src="https://img.shields.io/twitter/follow/cristiano_budi?logo=twitter&style=for-the-badge" alt="cristiano_budi" /></a> </p>
-
 - 🌱 I’m currently learning **Laravel, Express JS**
 
 - ⚡ Fun fact **I play guitar and write music sometimes**
@@ -24,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guitiorr&show_icons=true&locale=en" alt="guitiorr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guitiorr&" alt="guitiorr" /></p>
+
