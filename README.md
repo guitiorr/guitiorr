@@ -3,7 +3,7 @@
 # 💫 About me:
 👩🏻‍🎓 Currently an undergraduate Computer Science student at [BINUS University](https://binus.ac.id)<br><br>
 🖥️ Passionate about **Web Development**<br><br>
-🌱 I’m currently learning **Laravel, Express JS**<br><br>
+🌱 I’m currently learning **Laravel**<br><br>
 ⚡ Fun fact: **The Witcher 3 is my favorite game**
 
 
