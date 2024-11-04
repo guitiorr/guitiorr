@@ -1,7 +1,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=guitiorr&icon=5&color=12)](https://visitcount.itsvg.in)
 # 💫 About me:
-👩🏻‍🎓 Currently an undergraduate Computer Science student at [BINUS University](https://binus.ac.id)<br><br>
+👩🏻‍🎓 Computer Science student at [BINUS University](https://binus.ac.id)<br><br>
 🖥️ Passionate about **Web Development**<br><br>
 🌱 I’m currently learning **Laravel**<br><br>
 
