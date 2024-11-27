@@ -3,7 +3,7 @@
 # 💫 About me:
 👩🏻‍🎓 Computer Science student at [BINUS University](https://binus.ac.id)<br><br>
 🖥️ Passionate about **Web Development**<br><br>
-🌱 I’m currently learning **Laravel**<br><br>
+🌱 I’m currently learning **Spring Boot**<br><br>
 
 
 ## 🌐 Socials:
