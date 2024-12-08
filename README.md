@@ -2,9 +2,6 @@
 [![](https://visitcount.itsvg.in/api?id=guitiorr&icon=5&color=12)](https://visitcount.itsvg.in)
 # 💫 About me:
 👩🏻‍🎓 Computer Science student at [BINUS University](https://binus.ac.id)<br><br>
-🖥️ Passionate about **Web Development**<br><br>
-🌱 I’m currently learning **Spring Boot**<br><br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benedictus-cristiano-budi-472a08225) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cristiano_budi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@priacantiq) 
