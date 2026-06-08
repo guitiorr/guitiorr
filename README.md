@@ -45,10 +45,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guitiorr&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
-## 🏆 Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=guitiorr&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
