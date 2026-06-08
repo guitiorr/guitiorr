@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Full-stack+web+developer;Guitarist+%26+audio+nerd+%F0%9F%8E%B8;Prog+%2F+math-rock+enjoyer;FPS+grinder+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Full-stack+web+developer;Always+building+things;Guitarist+%26+music+maker+%F0%9F%8E%B8;Gamer+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 </div>
 
@@ -50,15 +50,5 @@
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=guitiorr&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-![Snake animation](https://raw.githubusercontent.com/guitiorr/guitiorr/output/github-contribution-grid-snake-dark.svg)
 
 </div>
