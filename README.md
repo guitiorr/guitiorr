@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=guitiorr&icon=5&color=12)](https://visitcount.itsvg.in)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Full-stack+web+developer;Guitarist+%26+audio+nerd+%F0%9F%8E%B8;Prog+%2F+math-rock+enjoyer;FPS+grinder+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 </div>
@@ -13,11 +11,11 @@
 🛠️ Also doing freelance web development on the side — and open to full-time / remote roles.<br>
 
 ## 🎮 When I'm Not Coding
-- 🎸 Playing guitar — into prog / math-rock (CHON, Polyphia, Yorushika, Porter Robinson)
-- 🎧 Down a perpetual audiophile rabbit hole (IEMs, EQ, amp sims)
-- 🏍️ Riding my MT15 with the boys
-- 🔫 Grinding ranked FPS — Valorant, CS2, Apex
-- ⌨️ Tinkering with keyboards & gear way more than is reasonable
+- 🎸 Playing guitar & making music
+- 🎧 Deep in the audio / hi-fi rabbit hole
+- 🏍️ Out riding
+- 🎮 Grinding games
+- ⌨️ Tinkering with tech & gear way more than is reasonable
 
 ## 🌐 Socials
 <div align="center">
